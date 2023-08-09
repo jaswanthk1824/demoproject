@@ -1,3 +1,3 @@
 echo "Welcome to the demo project"
 
-echo "Hello world"
+echo"this is my first project"
